@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Intent_Explicit_Biodata</string>
+    <string name="output">Tampilan Output</string>
+    <string name="nama">Nama :</string>
+    <string name="umur">Umur :</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="lakilaki">Laki-Laki</string>
+    <string name="jeniskelamin">Jenis Kelamin :</string>
+    <string name="kirimdata">Kirim Data</string>
+</resources>
